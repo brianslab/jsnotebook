@@ -10,6 +10,7 @@
 
 # production
 **/build
+**/dist
 **/notebook.js
 
 # misc
